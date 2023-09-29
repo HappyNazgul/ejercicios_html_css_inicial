@@ -1,0 +1,11 @@
+h1 {
+    color:darkred
+}
+p {
+    color: rgb(16, 199, 31); 
+    font-size: 16px;
+}
+a {
+    color: #ff9900
+    text-decoration: none;
+}
